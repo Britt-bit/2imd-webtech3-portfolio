@@ -1,6 +1,6 @@
 ## Britt Van der Linden
  
-[Lab 2](https://github.com/BramTheunis/2imd-webtech3-lab2.git)
+[Lab 2](https://github.com/Britt-bit/2imd-webtech3-lab2)
 
 Flexbox froggy:
 ![alt text](Flexbox-froggy.png "flexbox froggy")
