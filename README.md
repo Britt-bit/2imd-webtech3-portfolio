@@ -6,5 +6,7 @@
 
 [Lab 3](https://github.com/Britt-bit/2imd-webtech3-portfolio/tree/master/lab3-ES6)
 
+[Lab 4](https://github.com/Britt-bit/2imd-webtech3-portfolio/tree/master/lab4-api)
+
 Completion mongoDB:
 ![alt text](mongoDB.png "mongoDB")
